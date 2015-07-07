@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="template" client="site">
+	<name>flex</name>
+	<creationDate>2014-10-14</creationDate>
+	<author>Robin Hood</author>
+	<authorEmail>meridiansoftech@gmail.com</authorEmail>
+	<authorUrl>http://www.coderwall.com/fordarnold</authorUrl>
+	<copyright>Copyright (C) 2014 Meridian Softech LLC. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<version>1.0.0</version>
+	<description>Responsive Joomla! 3+ template, built with Zurb's awesome Foundation UI framework.</description>
+	<files>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>favicon.ico</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+	<positions>
+		<position>main-navigation</position>
+		<position>hero-panel</position>
+		<position>left-sidebar</position>
+		<position>right-sidebar</position>
+		<position>ads-panel</position>
+		<position>bottom-one</position>
+		<position>bottom-two</position>
+		<position>bottom-three</position>
+		<position>bottom-four</position>
+		<position>footer</position>
+	</positions>
+</extension>
